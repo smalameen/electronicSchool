@@ -1,0 +1,33 @@
+.sign-in{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    color:white;
+
+}
+.get-started{
+    width: 153px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+    margin-top: 20px;
+    border: none;
+    color:white;
+}
+#card-footer-1{
+    border-top: none;
+      background-color: white;
+      border-radius: 18px;
+}
+.buy-course{
+    width: 137px;
+    height: 35px;
+    background: #21B573;
+     border-radius: 33px;
+     border: none;
+     color: white;
+
+}
